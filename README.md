@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, World! I'm Muhammad Zakki Fitra Ramadhan ✨
 
-<!--
-**ramadhanzakki/ramadhanzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **AI/ML Engineer** and first-year Computer Science student from Indonesia 🇮🇩.
 
-Here are some ideas to get you started:
+I love bridging the gap between intuitive user interfaces and intelligent data processing. You'll usually find me building projects with `React` or diving deep into `Python` to explore the fascinating world of artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Up To
+- ✅ Building foundational skills in Computer Science.
+- 🎨 Crafting responsive web interfaces with HTML, CSS, JavaScript & React.
+- 🧠 Exploring the fundamentals of AI & Machine Learning with Python.
+
+### My Tech Toolbox 🧰
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+</p>
