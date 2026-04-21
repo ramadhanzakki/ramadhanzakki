@@ -2,7 +2,7 @@
 
 First-year Computer Science student from Indonesia 🇮🇩.
 
-I love bridging the gap between intuitive user interfaces and intelligent data processing. You'll usually find me building projects with `React` or diving deep into `Python` to explore the fascinating world of artificial intelligence.
+I'm learning to build software and exploring the world of programming step by step. I like turning ideas into small projects while improving my coding skills along the way.
 
 ### What I'm Up To
 - ✅ Building foundational skills in Computer Science.
