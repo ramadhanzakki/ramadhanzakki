@@ -1,4 +1,4 @@
-## Hello, I'm Muhammad Zakki Fitra Ramadhan ✨
+## Hello, I'm Muhammad Zakki Fitra Ramadhan 
 
 First-year Computer Science student from Indonesia 🇮🇩.
 
