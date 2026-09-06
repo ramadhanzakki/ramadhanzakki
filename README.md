@@ -5,11 +5,11 @@ First-year Computer Science student from Indonesia 🇮🇩.
 I'm learning to build software and exploring the world of programming step by step. I like turning ideas into small projects while improving my coding skills along the way.
 
 ### What I'm Up To
-- ✅ Building foundational skills in Computer Science.
-- 🎨 Crafting responsive web interfaces with HTML, CSS, JavaScript, React, & Laravel.
-- 🧠 Exploring the fundamentals of AI & Machine Learning with Python.
+-  Building foundational skills in Computer Science.
+-  Crafting responsive web interfaces with HTML, CSS, JavaScript, React, & Laravel.
+-  Exploring the fundamentals of AI & Machine Learning with Python.
 
-### My Tech Toolbox 🧰
+### My Tech Toolbox 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
